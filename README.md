@@ -1,6 +1,6 @@
 # Simple Android Interceptor
 It's a simple interceptor implementation in Android and it workes with activity's lifecycle.
-As you known, in our App a some activity's content info is retrieved from server with account ID, so you need login first, after login successfully then go into that activity, it's not very difficult to implement everyone, but log of boring code work.
+As you known, in our App a some activity's content info is retrieved from server with account ID, so you need login first, after login successfully then go into that activity, it's not very difficult to implement everyone, but a lot of boring code work.
 # how to use?
 For example:  LoginInterceptor  
 1. define interceptor class:  
